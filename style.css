@@ -1,0 +1,24 @@
+h1, h2, h3, h4 {
+    font-size: 32px;
+    margin-top: 20px;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: #E5E500;
+}
+
+h4 {
+    color: green;
+}
+
+p {
+    margin-top: 20px;
+}
